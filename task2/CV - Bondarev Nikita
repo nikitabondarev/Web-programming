@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+		<meta charset ="utf-8">
+		<title>CV - Bondarev Nikita</title>
+		<link rel="stylesheet" type="text/css" href="CV">
+	</head>
+	<body>
+		<h1><strong>CV - Bondarev Nikita</strong></h1>
+		<div class="about">
+			<p> 19 years old second year student of the Department of Innovations and Hight Technologies at MIPT.</p>
+			<p>Lives in Dolgoprudny</p> 
+			<p> Skills : data mining, programming, advanced english, surfing, boxing</p>
+		</div>
+		<div class="experience">
+			<p> 2 years at MIPT, participation in business cases, Coursera Machine learning, Data mining in action(Industry) </p>
+		</div>
+		<div class ="contacts"> 
+			<p> Phone: +7(910)592-48-00</p>
+			<p> Email: bondnikbond2@gmail.com</p>
+			<p> Telegram:</p>
+			<a href="https://t.me/BondBushido">https://t.me/BondBushido</a>
+		</div>
+	</body>
+</html>

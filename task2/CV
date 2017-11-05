@@ -1,0 +1,20 @@
+h1{
+  color: purple;
+  font-size: 64px;
+  background:;
+}
+.about{
+	color: blue;
+	font-size: 32px;
+	background: white;
+}
+.experience{
+	color: green;
+	font-size: 32px;
+	background: white;
+}
+.contacts{
+	color: red;
+	font-size: 32px;
+	background: green;
+}
